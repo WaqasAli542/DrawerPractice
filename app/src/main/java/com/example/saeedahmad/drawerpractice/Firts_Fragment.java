@@ -30,5 +30,6 @@ public class Firts_Fragment extends android.support.v4.app.Fragment {
         }
         return view;
 
+
     }
 }
